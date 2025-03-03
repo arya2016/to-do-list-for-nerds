@@ -1,0 +1,12 @@
+button{
+color: palevioletred;
+background-color: rosybrown;
+}
+body{
+    background: url('./download.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
